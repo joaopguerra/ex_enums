@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+F:\Users\João\Documents\Programação\Java\ws-eclipse\Ex_Enums\.metadata\.plugins\org.eclipse.jdt.core
+3927496509.index
+4210876544.index
+834832117.index
